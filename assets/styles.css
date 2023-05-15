@@ -1,0 +1,127 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+}
+
+nav {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+  background-color: #ccc;
+  color: #fff;
+}
+
+nav a:hover {
+  background-color: #aaa;
+}
+
+section {
+  padding: 20px;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+body {
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+}
+
+h1 {
+  color: #fff;
+}
+
+nav a {
+  color: #fff;
+}
+
+nav a:hover {
+  background-color: #ccc;
+}
+
+section {
+  background-color: #ccc;
+}
+
+h2 {
+  color: #000;
+}
+
+p {
+  color: #000;
+}
+
+ul {
+  list-style-type: none;
+  background-color: #ccc;
+}
+
+li {
+  color: #000;
+}
+
+a {
+  color: #000;
+}
+
+.fab {
+    font-size: 50px;
+    color: red;
+  }
+
+.port img{
+  width: 200px;
+  height: 200px; 
+  float: right; 
+  margin-bottom: 10px;
+
+}
